@@ -1,0 +1,14 @@
+input[type=submit] {
+    margin-top: 10px;
+    background-color:  #9999ff;
+    border: none;
+    color: #fff;
+    width: 9.5em;  height: 2.5em;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 1em;
+  }
+  .foto-ford{
+      width: 850px;
+      height: 500px;
+  }
